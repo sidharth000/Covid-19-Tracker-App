@@ -4,6 +4,6 @@
 * Understood React's workflow and the use of hooks.
 * API used: https://covid19.mathdro.id/api
 * Deployed the app in Firebase
-* Link:https://covid-19-tracker-70418.web.app/
+* Link:https://covid-19-tracker-app-c089a.web.app/
 * Setup:
 - run ```npm i && npm start```
