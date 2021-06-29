@@ -5,5 +5,5 @@
 * API used: https://covid19.mathdro.id/api
 * Deployed the app in Firebase
 * Link:https://covid-19-tracker-70418.web.app/
-Setup:
+* Setup:
 - run ```npm i && npm start```
